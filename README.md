@@ -6,6 +6,7 @@ Please take a look at the REPORT.pdf file for detail information about our solut
 # Installation
 Basic installation:
 Here are the command lines to install the package using in this solution.
+
 For Mac/Linux:
 ```bash
 python -m pip install --upgrade --user ortools
