@@ -107,7 +107,7 @@ def main():
 
   #objective function
   solver.Minimize(finish_time)
-  solver.set_time_limit(300*1000)
+
 
   #initialize the solver
   status = solver.Solve()
